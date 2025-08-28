@@ -1,8 +1,8 @@
 function changeColor() {
 
     let colors = [
-        ["#ffd416ff", "#fff5d8ff"],
-        ["#069187ff", "#83fcf4ff"]
+        ["#ec3e3eff", "#ffa1a1ff"],
+        ["#27bbffff", "#a9e4ffff"]
     ];
     const style = window.getComputedStyle(document.body);
     const currentColor = style.getPropertyValue("--accent-font");

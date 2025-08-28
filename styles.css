@@ -9,9 +9,9 @@ body {
 
 :root {
     --background: #181818;
-    --accent-font: #069187ff;
+    --accent-font: #ec3e3eff;
     --main-font: #c0c0c0;
-    --hover-links: #83fcf4ff;
+    --hover-links: #ffa1a1ff;
 }
 
 .marquee-wrapper {
